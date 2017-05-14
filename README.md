@@ -1,0 +1,2 @@
+# LoliBot
+My discord bot
